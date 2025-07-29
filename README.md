@@ -1,6 +1,9 @@
 # 💫 About Me:
 
-🔥 What I Do<br>💻 Full-Stack Development – Creating dynamic and responsive web applications.<br>🚀 React & React Native – Crafting intuitive UI/UX for web and mobile.<br>💡 Tech Enthusiast – Always learning and exploring new frameworks.<br>🌍 Problem Solver – Passionate about finding efficient solutions to complex challenges.<br><br><br><br><br><br>
+💻 Writing clean code and building stuff that works.
+🚀 Mostly React & React Native — web, mobile, whatever feels right.
+💡 Always curious, usually experimenting.
+🌍 If there’s a problem, I’ll probably end up solving it.
 
 ## 🌐 Socials:
 
