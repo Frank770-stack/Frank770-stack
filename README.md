@@ -1,9 +1,6 @@
 # 💫 About Me:
 
-💻 Writing clean code and building stuff that works.
-🚀 Mostly React & React Native — web, mobile, whatever feels right.
-💡 Always curious, usually experimenting.
-🌍 If there’s a problem, I’ll probably end up solving it.
+Just Love to code
 
 ## 🌐 Socials:
 
